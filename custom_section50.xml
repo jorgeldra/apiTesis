@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><title><![CDATA[Conferencias plenarias]]></title><content><![CDATA[	<p>El congreso incluye cinco conferencias plenarias, impartidas por
+		científicos con reconocido prestigio internacional. En estos momentos
+		está confirmada la asistencia de las siguientes personas:</p>
+	<div id="plenaria5">
+		<h3 id="nombre5" style="display: inline;">Eduardo Barredo-Capelot (jueves 19, 9:20)</h3>
+		<a href="eduardo-barredo-capelot" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+		<div id="trabajo5" style="margin-left: 25px;">
+			<h3 id="titulo5" style="margin-bottom: 5px;">Visión de Eurostat sobre la producción de estadísticas en la próxima década y aplicación en el campo de las estadísticas de empresas</h3>
+			<p class="preres">
+				La conferencia versará sobre las tendencias recientes de la producción estadística para la producción de agregados comunitarios, y sobre la visión de Eurostat para la próxima década. En un contexto donde la demanda de estadísticas comunitarias no va a disminuir, y los recursos para la producción estadística no van a aumentar presumiblemente, Eurostat plantea la necesidad de tomar medidas para mejorar tanto la eficiencia como la eficacia de la producción en el marco del sistema estadístico europeo. La presentación cubrirá asimismo las tendencias más recientes en el tema de estadísticas de empresas a nivel europeo. 
+			</p>
+		</div>
+	</div>
+		<div id="plenaria4">
+		<h3 id="nombre4" style="display: inline;">Raymond J. Carroll (jueves 19, 15:30)</h3>
+		<a href="raymond-j-carroll" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+		<div id="trabajo4" style="margin-left: 25px;">
+			<h3 id="titulo4" style="margin-bottom: 5px;">Deconvolution and Classification</h3>
+			<p class="preres">
+				In a series of papers on Lidar data, magically good classification rates are claimed once data are deconvolved and a dimension reduction technique applied. The latter can certainly be useful, but it is not clear a priori that deconvolution is a good idea in this context. [...] 
+<a href="raymond-j-carroll-2" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+			</p>
+		</div>
+	</div>
+
+	<div id="plenaria2">
+		<h3 id="nombre2" style="display: inline;">Marco Antonio López
+			Cerdá (martes 17, 19:00, Real Academia de Ciencias)</h3>
+		<a href="marco-antonio-lopez-cerda" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+		<div id="trabajo2" style="margin-left: 25px;">
+			<h3 id="titulo2" style="margin-bottom: 5px;">Pero...,¿hay
+				problemas de optimización reales con infinitas restricciones?</h3>
+			<h3 id="titulo2b" style="margin-bottom: 5px; margin-top: 0px;">
+				But..., are there real-world optimization problems with infinitely
+				many constraints?</h3>
+			<p class="preres">
+				Se muestra, en primer lugar, que una extensa serie de problemas
+				reales en ámbitos muy diferentes como el de las matemáticas y la
+				física (geometría convexa, regresión robusta, diseño de
+				experimentos, aproximación funcional, Dirichlet b.v.p., etc.) [...]
+				<a href="marco-antonio-lopez-cerda-2" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+			</p>
+		</div>
+	</div>
+
+	<div id="plenaria3">
+		<h3 id="nombre3" style="display: inline;">Richard L. Smith (martes 17, 10:30)</h3>
+<a href="richard-l-smith" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+		<div id="trabajo3" style="margin-left: 25px;">
+			<h3 id="titulo3" style="margin-bottom: 5px;">The Statistics of Climate Change</h3>
+			<p class="preres">
+				Statisticians have been involved in climate change research in numerous ways, from the assessment of trends in climatic time series through to the processing of large spatial-temporal datasets both from observational networks and from climate models. [...] <a href="richard-l-smith-2" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+			</p>
+		</div>
+	</div>
+	<div id="plenaria1">
+		<h3 id="nombre1" style="display: inline;">Dominique de Werra (miércoles 18, 10:30)</h3>
+		<a href="dominique-de-werra" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+		<div id="trabajo1" style="margin-left: 25px;">
+			<h3 id="titulo1" style="margin-bottom: 5px;">Some combinatorial
+				optimization problems in a conflict situation</h3>
+			<p class="preres">
+				When a complex system has to be protected against attacks, one is
+				often led to identify the d most vital elements of the system. In a
+				similar spirit when a player A has to choose an action between a
+				collection of “optimal” actions, one may imagine that an opponent P
+				may try to prevent A from making a good choice by destroying some
+				elements of the system [...]
+<a href="dominique-de-werra-2" class="alt" style="margin-left: 10px; font-size: 0.8em;" rel="facebox">Ver más</a>
+			</p>
+		</div>
+	</div>
+]]></content></root>
